@@ -1,6 +1,6 @@
 ## Johnny Yip
 
-I am Johnny and have previously worked as Software Tester and Business Analyst. I am now aspiring to become a Software Developer. I moved to Hong Kong in 2012 to start my university studies at The Chinese University of Hong Kong. After graduation, I worked in Fujitsu as a Business Analyst and got my first taste in the IT and technology industry. In my second job, I had a more hands on role as a software tester, using technolgies and practices many modern day companies were utilising. After working alongside developers on a daily basis I grew more and more intriuged in the role and it's challenges. I wanted to learn new skills and improve my technical abilities therefore deciding to pursue software developer as a career. Technology is evergrowing and there are always new advancements with the ability to create anything. 
+I am Johnny and have previously worked as Software Tester and Business Analyst. I am now an aspiring  Software Developer studying at Makers Academy. I moved to Hong Kong in 2012 to start my university studies at The Chinese University of Hong Kong. After graduation, I worked in Fujitsu as a Business Analyst and got my first taste in the IT and technology industry. In my second job, I had a more hands on role as a software tester, using technolgies and practices many modern day companies were utilising. After working alongside developers on a daily basis I grew more and more intriuged in the role and it's challenges. I wanted to learn new skills and improve my technical abilities therefore deciding to pursue software developer as a career. Technology is evergrowing and there are always new advancements with the ability to create anything. 
 We live in a society surrounded and dependant on technology so it was natural for me to become interested and immersed in it. 
 
 ## Projects
@@ -23,11 +23,9 @@ Senior Software Tester
 Business Analyst
 
 - Prepared system documentation such as requirements specifications and training manuals.
-- 
+- Conducted business and workflow analysis and acted as a key interface between business users and developers.
 
 ## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
 #### Great communication across different teams
 
@@ -40,7 +38,7 @@ Consider skills relevent to software development. Then consider your best skills
 
 ## Education
 
-#### Makers Academy (September 2020 to November 2020)
+#### Makers Academy (August 2020 to November 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -59,5 +57,5 @@ ISTQB Certified Tester Foundation Level (obtained December 2018)
 
 ## Hobbies
 
-Frequent gym-goer (when it was once safe to go to one)
-Avid gamer (PC, PS4, Nintendo Switch)
+- Frequent gym-goer (when it was once safe to go to one)
+- Avid gamer (PC, PS4, Nintendo Switch)
