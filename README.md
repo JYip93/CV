@@ -10,7 +10,7 @@ I am excited to bring the skills I have gained from a QA role and transition to 
 | [**Maskbook**](https://github.com/JYip93/Croc-My-World)                | A Facebook clone.                                                                | Ruby, Ruby on Rails, Rspec, Capybara, Heroku, CircleCI. |
 | [**Process Review Site**](https://github.com/JYip93/ProcessReviewSite) | A web application to ease the use of taking Process Reviews during their course. | React, PostgreSQL, Express, Heroku, TravisCI.           |
 | [**BearBnb**](https://github.com/JYip93/AirBnB-Clone)                  | An AirBnb clone.                                                                 | Ruby, Sinatra, PostgreSQL, Rspec, Capybara.             |
-| [**Bank Tech Test**](https://github.com/JYip93/bank_tech_test)         | A small command line program practicing TDD.                                     | Javascript, Jasmine, MomentJS, TravisCI.                |
+| [**Bank Tech Test**](https://github.com/JYip93/bank_tech_test)         | A small command line program practising TDD.                                     | Javascript, Jasmine, MomentJS, TravisCI.                |
 
 ## Experience
 
@@ -50,35 +50,36 @@ Business Analyst
 
 ## Skills
 
-#### Great communication across different teams
+### Great communication across different teams
 
 - As part of the testing/QA team in Vyond I was crucial in communicating and coordinating with others such as the developers, designers and Product team.
 - Explaining clearly and concisely to other team members technically and non-technically was essential to a successful sprint.
 
-#### Meticulous and strong attention to detail
+### Meticulous and strong attention to detail
 
 - Having a strong attention to detail was key as a software tester as it helped me in Makers to write better quality code and unit tests, leading to a higher quality end product.
 
 ## Education
 
-#### Makers Academy (August 2020 to November 2020)
+**Makers Academy (August 2020 to November 2020)**
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### The Chinese University of Hong Kong (2012 to 2015)
+**The Chinese University of Hong Kong (2012 to 2015)**
 
 - BA in Chinese Studies, concentration in Anthropology
 
-#### Chingford Foundation School (2005 - 2015)
+**Chingford Foundation School (2005 - 2015)**
 
-#### Any other qualifications
+## Other qualifications
 
-ISTQB Certified Tester Foundation Level (obtained December 2018)
+- ISTQB Certified Tester Foundation Level (obtained December 2018)
 
 ## Hobbies
 
 - Frequent gym-goer (when it was once safe)
 - Avid gamer (PC, PS5, Nintendo Switch)
+- Massive move buff (especially the Marvel Cinematic Universe)
